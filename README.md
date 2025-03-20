@@ -40,6 +40,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 ## References
 
 <a id="1">[1]</a>
-D. Andrini, V. Balbi, G. Bevilacqua, G. Lucci, G. Pozzi, D. Riccobelli (2022).
+D. Andrini, V. Balbi, G. Bevilacqua, G. Lucci, G. Pozzi, D. Riccobelli.
 Mathematical modelling of axonal cortex contractility
 Brain Multiphysics, 3, 100060 (2022).
