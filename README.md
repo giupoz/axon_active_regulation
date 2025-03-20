@@ -1,6 +1,6 @@
 # axon_active_regulation
 In this repository, you can find the source code used to simulate in-silico the mathematical modelling of axonal cortex contractility.
-The model and the results of the numerical simulations are contained in this paper currently under review [[1]](#1).
+The model and the results of the numerical simulations are contained in this paper [[1]](#1).
 
 ## Dependencies
 The code is developed in Python 3 and tested with version 3.8.5. The following additional libraries are required, in the parentheses we indicate the version used in the simulations reported in the paper:
@@ -42,5 +42,4 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 <a id="1">[1]</a>
 D. Andrini, V. Balbi, G. Bevilacqua, G. Lucci, G. Pozzi, D. Riccobelli (2022).
 Mathematical modelling of axonal cortex contractility
-*Brain Multiphysics *, under review.
-
+Brain Multiphysics, 3, 100060 (2022).
